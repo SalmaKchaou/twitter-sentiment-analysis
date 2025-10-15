@@ -1,0 +1,4 @@
+dataset.csv
+model.w2v
+model.h5
+tokenizer.pkl
